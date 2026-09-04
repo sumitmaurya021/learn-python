@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Sumit",
+        "roll_no": 1,
+        "marks": {
+            "Hindi": 50.0,
+            "English": 60.0,
+            "Math": 90.0,
+            "Science": 80.0,
+            "Biology": 50.0
+        }
+    },
+    {
+        "name": "Rahul",
+        "roll_no": 2,
+        "marks": {
+            "Math": 90.0
+        }
+    }
+]

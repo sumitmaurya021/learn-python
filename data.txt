@@ -1,0 +1,3 @@
+Yeh mera pahla note hai.
+File handling seekh raha hoon.
+Ye naya line hai, purana data saaf hai.
